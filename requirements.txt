@@ -1,0 +1,6 @@
+requests
+flask
+pytest
+boto3          # 如果部署到 AWS，可能需要这个库
+heroku3        # 如果部署到 Heroku，可能需要这个库
+google-cloud   # 如果部署到 GCP，可能需要这个库
